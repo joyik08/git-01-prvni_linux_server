@@ -1,5 +1,7 @@
 # Git a Vagrant – první Linux server
 
+![Moje virtuální Linuxová laboratoř](./Images/photo-chatgpt.png)
+
 ## Moje řešení
 
 - **Distribuce a verze:** Debian13 - trixie
